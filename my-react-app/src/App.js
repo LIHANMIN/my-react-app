@@ -7,7 +7,7 @@ const customers = [
     {
     'id':1,
     'image':'https://placeimg.com/64/64/1',
-    'name':'홍길동동',
+    'name':'홍홍길동동',
     'birthday':'111111',
     'gender':'남자',
     'job':'대학생'
