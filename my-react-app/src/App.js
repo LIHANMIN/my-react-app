@@ -16,7 +16,7 @@ const customers = [
   {
     'id':2,
     'image':'https://placeimg.com/64/64/2',
-    'name':'길홍홍동',
+    'name':'길홍홍동도오오',
     'birthday':'222222',
     'gender':'남자자',
     'job':'대학생생'
